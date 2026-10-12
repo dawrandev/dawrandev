@@ -54,8 +54,8 @@
     <img height="165" src="https://streak-stats.demolab.com?user=dawrandev&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=FF2D20&fire=FF2D20&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=FF2D20&sideLabels=656D76&dates=656D76" alt="GitHub streak"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dawrandev&layout=compact&langs_count=6&hide=pug,css,scss,html,shell&hide_border=true&bg_color=0D1117&title_color=FF2D20&text_color=E6EDF3&custom_title=Top%20languages"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawrandev&layout=compact&langs_count=6&hide=pug,css,scss,html,shell&hide_border=true&bg_color=FFFFFF&title_color=FF2D20&text_color=1F2328&custom_title=Top%20languages" alt="Top languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dawrandev&layout=compact&langs_count=5&hide=pug,css,scss,html,shell,powershell,dockerfile&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=FF2D20&text_color=E6EDF3&custom_title=Top%20languages"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawrandev&layout=compact&langs_count=5&hide=pug,css,scss,html,shell,powershell,dockerfile&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=FFFFFF&title_color=FF2D20&text_color=1F2328&custom_title=Top%20languages" alt="Top languages"/>
   </picture>
 </p>
 
