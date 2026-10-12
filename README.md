@@ -1,46 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:7C3AED&height=180&section=header&text=Dawran&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Clean%20Architecture&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:7C3AED&height=180&section=header&text=dawrandev&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Clean%20Architecture&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://github.com/dawrandev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Building+scalable+backends+with+Laravel;Filament+%E2%80%A2+Livewire+%E2%80%A2+REST+APIs;Telegram+bots+%26+Mini+Apps;AI+%26+computer+vision+integrations" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://t.me/dawrandev"><img src="https://img.shields.io/badge/Telegram-@dawrandev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:dawrandev@gmail.com"><img src="https://img.shields.io/badge/Email-dawrandev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/dawrandev"><img src="https://img.shields.io/badge/telegram-@dawrandev-26A5E4?style=flat-square&logo=telegram&logoColor=white" height="28" alt="Telegram"/></a>
+  <a href="mailto:dawrandev@gmail.com"><img src="https://img.shields.io/badge/gmail-dawrandev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email"/></a>
 </p>
 
 </div>
 
 ---
-
-### 👨‍💻 About me
-
-```php
-<?php
-
-final class Dawran extends Developer
-{
-    public string $role     = 'Backend Developer';
-    public string $location = 'Nukus, Uzbekistan 🇺🇿';
-
-    public array $stack = ['PHP', 'Laravel', 'Filament', 'Livewire', 'MySQL', 'PostgreSQL'];
-
-    public array $principles = [
-        'Controller → Service → Repository',
-        'SOLID & Domain-Driven Design',
-        'Clean, testable, readable code',
-    ];
-
-    public array $interests = ['Telegram bots', 'AI integrations', 'Computer vision'];
-
-    public function status(): string
-    {
-        return 'Open to freelance & collaboration 🤝';
-    }
-}
-```
 
 ### 🛠️ Tech stack
 
@@ -66,24 +39,24 @@ final class Dawran extends Developer
 
 | Project | Description | Stack |
 |---|---|---|
-| [**laravel-skill**](https://github.com/dawrandev/laravel-skill) | Claude Code skill that makes an AI agent write Laravel like a senior backend engineer | `PHP` `Laravel` `AI` |
-| [**besqala-mining**](https://github.com/dawrandev/besqala-mining) | Digital platform for registering residents, issuing permits and monitoring activity in a special mining zone | `Laravel` `Livewire` `PDF/QR` |
-| [**SamVet-library**](https://github.com/dawrandev/SamVet-library) | Full-featured university library system — books, dissertations, loans, readers, e-reading | `Laravel` `Alpine.js` `ApexCharts` |
-| [**KMI-AI-TEST-SYSTEM**](https://github.com/dawrandev/KMI-AI-TEST-SYSTEM) | Student testing platform with AI-powered performance insights | `Laravel` `PhpSpreadsheet` `AI` |
-| [**safemom**](https://github.com/dawrandev/safemom) | Pregnancy health tracker with Telegram bot and AI assistant | `Laravel` `Telegram` `AI` |
-| [**BookEz**](https://github.com/dawrandev/BookEz) | Online booking & scheduling SaaS with subscription plans | `Laravel` `Filament` |
-| [**Habit-Challenge-bot**](https://github.com/dawrandev/Habit-Challenge-bot) | Telegram Mini App for building habits through accountability battles | `PHP` `Telegram Mini App` |
-| [**MalariaAI**](https://github.com/dawrandev/MalariaAI) | CNN that classifies microscopy blood cell images as parasitized or uninfected | `Python` `Deep Learning` |
+| [**SamVet-library**](https://github.com/dawrandev/SamVet-library) | University library management system — books, dissertations, journals, loans, readers, e-reading and audiobooks | `Laravel` `Alpine.js` `TinyMCE` `ApexCharts` |
+| [**KMI-AI-TEST-SYSTEM**](https://github.com/dawrandev/KMI-AI-TEST-SYSTEM) | Student testing system with AI-powered performance insights, multi-language questions and Excel/Word import | `Laravel` `AI` `PhpSpreadsheet` |
+| [**besqala-mining**](https://github.com/dawrandev/besqala-mining) | Government platform for a special mining zone — resident registration, permits with QR codes, activity monitoring | `Laravel` `Livewire` `DomPDF` |
+| [**VirtualLab**](https://github.com/dawrandev/VirtualLab) | Interactive virtual laboratory with gesture controls, animations and i18n | `Next.js` `TypeScript` `Framer Motion` `Zustand` |
+| [**travel**](https://github.com/dawrandev/travel) | Multilingual travel agency REST API — tours, bookings, categories, FAQ | `Laravel` `Sanctum` `Swagger` |
+| [**Habit-Challenge-bot**](https://github.com/dawrandev/Habit-Challenge-bot) | Telegram Mini App for building habits through daily accountability battles | `PHP` `Telegram Mini App` |
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dawrandev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=FF2D20&icon_color=7C3AED" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawrandev&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=FF2D20" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dawrandev&theme=tokyonight&hide_border=true&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" alt="GitHub streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dawrandev&hide_border=true&background=0D1117&stroke=30363D&ring=FF2D20&fire=FF2D20&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FF2D20&sideLabels=8B949E&dates=8B949E"/>
+    <img height="165" src="https://streak-stats.demolab.com?user=dawrandev&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=FF2D20&fire=FF2D20&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=FF2D20&sideLabels=656D76&dates=656D76" alt="GitHub streak"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dawrandev&layout=compact&langs_count=6&hide=pug,css,scss,html,shell&hide_border=true&bg_color=0D1117&title_color=FF2D20&text_color=E6EDF3&custom_title=Top%20languages"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawrandev&layout=compact&langs_count=6&hide=pug,css,scss,html,shell&hide_border=true&bg_color=FFFFFF&title_color=FF2D20&text_color=1F2328&custom_title=Top%20languages" alt="Top languages"/>
+  </picture>
 </p>
 
 <div align="center">
