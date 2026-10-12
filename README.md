@@ -9,7 +9,6 @@
 <p>
   <a href="https://t.me/dawrandev"><img src="https://img.shields.io/badge/Telegram-@dawrandev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:dawrandev@gmail.com"><img src="https://img.shields.io/badge/Email-dawrandev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=dawrandev&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 </div>
@@ -85,10 +84,6 @@ final class Dawran extends Developer
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dawrandev&theme=tokyonight&hide_border=true&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dawrandev&theme=tokyo-night&hide_border=true&area=true&color=FF2D20&line=7C3AED&point=ffffff" alt="Contribution graph"/>
 </p>
 
 <div align="center">
